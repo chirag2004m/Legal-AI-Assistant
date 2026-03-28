@@ -1,0 +1,10 @@
+version: "3"
+agent:
+  authtoken: 3BX1FtdTcPsXYWFbj9hC8Khuw7c_npmYj2Q5b2xp4kvMRvLH
+tunnels:
+  default:
+    proto: http
+    addr: 3000
+    request_header:
+      add:
+        - "ngrok-skip-browser-warning: true"
