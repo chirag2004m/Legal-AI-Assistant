@@ -14,6 +14,8 @@ A real-time voice-based AI legal assistant for India that works on **any phone c
 * 🌐 Multi-language support: Handles up to 10 regional languages including Hindi, Marathi, Gujarati, Tamil, Telugu, Kannada, Bengali, Punjabi, Malayalam, and English — making it accessible across India.
 ---
 
+
+
 ## 🧱 Tech Stack
 
 * Node.js + Express
@@ -22,6 +24,9 @@ A real-time voice-based AI legal assistant for India that works on **any phone c
 * Google Gemini (LLM)
 * Cloudinary (audio delivery)
 
+<h2>🎬 Demo</h2>
+
+<video src="assets/demo.mp4" controls width="600"></video>
 ---
 
 ## ⚙️ Setup

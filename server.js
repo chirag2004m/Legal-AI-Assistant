@@ -55,7 +55,7 @@ const conversations = {};
 // ── Prompt ──────────────────────────
 const SYSTEM_PROMPT = `You are a helpful legal assistant for India. 
 Explain clearly with rights violated, give next steps and helpline numbers. 
-Max 3 sentences. Same language as user.`;
+Max 3 sentences. 500 characters limit. Same language as user.`;
 
 // ── Incoming Call ───────────────────
 app.post("/incoming-call", (req, res) => {
