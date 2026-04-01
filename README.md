@@ -26,8 +26,11 @@ A real-time voice-based AI legal assistant for India that works on **any phone c
 
 <h2>🎬 Demo</h2>
 
-<video src="assets/demo.mp4" controls width="600"></video>
 ---
+
+https://github.com/user-attachments/assets/fc60aa08-19b6-4713-9fa3-222808e3bdfe
+
+
 
 ## ⚙️ Setup
 
