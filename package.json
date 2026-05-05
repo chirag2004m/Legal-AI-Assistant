@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
+    "@modelcontextprotocol/sdk": "^1.29.0",
     "alawmulaw": "^6.0.0",
     "axios": "^1.7.2",
     "cloudinary": "^2.9.0",
